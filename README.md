@@ -7,3 +7,5 @@ Automatic brew installation of;
 - chruby
 - postgres
 - mysql
+
+https://github.com/paulirish/git-open
