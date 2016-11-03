@@ -9,3 +9,6 @@ Automatic brew installation of;
 - mysql
 
 https://github.com/paulirish/git-open
+
+## Mac Services
+- awesome gifs from mp4's: https://github.com/minimaxir/video-to-gif-osx
