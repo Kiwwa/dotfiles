@@ -7,6 +7,7 @@ Automatic brew installation of;
 - chruby
 - postgres
 - mysql
+- ncdu
 - cask install keepingyouawake
 
 https://github.com/paulirish/git-open
