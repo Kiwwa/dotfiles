@@ -8,6 +8,7 @@ Automatic brew installation of;
 - postgres
 - mysql
 - ncdu
+- htop
 - cask install keepingyouawake
 
 https://github.com/paulirish/git-open
