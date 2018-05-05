@@ -20,6 +20,7 @@ Time to spin up a new Luke-Dev machine?... ^_^
   - Sublime
   - Skitch
   - Vanilla
+  - Be Focussed Pro
 
 ## Stuff to put on PATH
 - mtr (doesn't automatically show up, is at sudo /usr/local/sbin/mtr by default?)
