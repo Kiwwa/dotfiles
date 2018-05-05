@@ -19,6 +19,7 @@ Time to spin up a new Luke-Dev machine?... ^_^
   - Atom
   - Sublime
   - Skitch
+  - Vanilla
 
 ## Stuff to put on PATH
 - mtr (doesn't automatically show up, is at sudo /usr/local/sbin/mtr by default?)
