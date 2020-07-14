@@ -1,5 +1,5 @@
 # dotfiles
-Time to spin up a new Luke-Dev machine?... ^_^
+Time to spin up a new Luke-Dev machine?...
 
 ## Stuff to include
 
@@ -16,10 +16,10 @@ Time to spin up a new Luke-Dev machine?... ^_^
 - installation/configuration of;
   - Specktacle
   - Dash
-  - Atom
+  - Krisp
+  - Irvue
   - Sublime
-  - Skitch
-  - Vanilla
+  - Bartender
   - Be Focussed Pro
 
 ## Stuff to change
