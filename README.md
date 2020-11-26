@@ -12,6 +12,7 @@ Time to spin up a new Luke-Dev machine?...
   - htop
   - cask install keepingyouawake
   - mtr
+  - [fzf + hotkeys](https://sourabhbajaj.com/mac-setup/iTerm/fzf.html)
 - Docker installation/configuration
 - installation/configuration of;
   - iTerm
@@ -19,9 +20,10 @@ Time to spin up a new Luke-Dev machine?...
   - Dash
   - Krisp
   - Irvue
-  - Sublime
+  - VSCode
   - Bartender
   - Be Focussed Pro
+  - Alfred
 
 ## Stuff to change
 - https://stackoverflow.com/questions/9070816/iterm2-hide-split-pane-title-bars
