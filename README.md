@@ -16,7 +16,7 @@ Time to spin up a new Luke-Dev machine?...
 - Docker installation/configuration
 - installation/configuration of;
   - iTerm
-  - Specktacle
+  - Rectangles
   - Dash
   - Krisp
   - Irvue
@@ -24,6 +24,9 @@ Time to spin up a new Luke-Dev machine?...
   - Bartender
   - Be Focussed Pro
   - Alfred
+  - Todoist
+  - Pixelmator Pro
+  - Notion
 
 ## Stuff to change
 - https://stackoverflow.com/questions/9070816/iterm2-hide-split-pane-title-bars
