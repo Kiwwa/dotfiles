@@ -27,12 +27,12 @@ Time to spin up a new Luke-Dev machine?...
   - Todoist
   - Pixelmator Pro
   - Notion
+  - Anki
 
 ## Stuff to change
 - https://stackoverflow.com/questions/9070816/iterm2-hide-split-pane-title-bars
 - https://medium.com/@jonnyhaynes/jump-forwards-backwards-and-delete-a-word-in-iterm2-on-mac-os-43821511f0a
-
-
+- Add Anki TTS addon (https://ankiweb.net/shared/info/1436550454)
 
 ## Stuff to put on PATH
 - mtr (doesn't automatically show up, is at sudo /usr/local/sbin/mtr by default?)
