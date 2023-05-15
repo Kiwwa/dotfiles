@@ -16,6 +16,9 @@ Time to spin up a new Luke-Dev machine?...
 - Docker installation/configuration
 - installation/configuration of;
   - iTerm
+    - ohMyZsh
+    - https://github.com/romkatv/powerlevel10k
+    - https://www.youtube.com/watch?v=CF1tMjvHDRA
   - Rectangles
   - Dash
   - Krisp
