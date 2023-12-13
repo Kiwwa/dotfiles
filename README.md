@@ -22,15 +22,13 @@ Time to spin up a new Luke-Dev machine?...
   - Rectangles
   - Dash
   - Krisp
-  - Irvue
   - VSCode
-  - Bartender
   - Be Focussed Pro
-  - Alfred
   - Todoist
   - Pixelmator Pro
   - Notion
   - Anki
+  - CodeWhisperer
 
 ## Stuff to change
 - https://stackoverflow.com/questions/9070816/iterm2-hide-split-pane-title-bars
@@ -44,11 +42,3 @@ https://github.com/paulirish/git-open
 
 ## Mac Services
 - awesome gifs from mp4's: https://github.com/minimaxir/video-to-gif-osx
-
-## Mac Kernal Panic Issues
-- https://forums.macrumors.com/threads/new-macbook-kernel-panics.2228308/page-5
-- https://forums.macrumors.com/threads/macos-catalina-10-15-3-crash-panic-cpu-0-caller-0xffffff801faa2d1c-sleep-transition-timed-out-after-180-seconds-while-calling-power-state-change.2227077/page-8 
-- Steps I actually took...
-  - changing hiberationmode to resolve kernel panics with external monitor MBP 15" 2019?
-  - Turn on Notifications => Do Not Disturb => When Sleeping (to resolve kernel panics with external monitor MBP 15" 2019?)
-  - Turn off PowerNap
